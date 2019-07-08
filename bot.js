@@ -3524,5 +3524,5 @@ client.on('guildMemberAdd', member => {
 return channel.send("")
     }
     )});
-client.login(NTk2NTg4OTg1NzU3ODU5ODQy.XSNLjw.eJ3W3TIdKkcumZ0YT8ByEQQ7K5s)
+client.login(``https://discordapp.com/api/oauth2/authorize?client_id=596588985757859842&permissions=0&scope=bot``)
 
